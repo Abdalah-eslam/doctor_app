@@ -1,0 +1,151 @@
+{
+   "checksum": "3bd8b0647566512e937b7822cb35094d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13364530614079012",
+            "date_last_used": "0",
+            "guid": "87126511-1532-49b1-a677-05025e31a735",
+            "id": "6",
+            "name": "LinkedIn مصر: تسجيل الدخول أو إنشاء حساب",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://eg.linkedin.com/?utm_source=edge_ntp&utm_medium=top&utm_campaign=eg",
+            "visit_count": 0
+         }, {
+            "date_added": "13364530655718612",
+            "date_last_used": "13374110271484855",
+            "guid": "2941d29f-a8ac-48fb-97b1-4f142e7da934",
+            "id": "7",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 76
+         }, {
+            "date_added": "13364709364989157",
+            "date_last_used": "13372041402677542",
+            "guid": "334b630f-8233-445e-9874-6c4baa542481",
+            "id": "8",
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chatgpt.com/",
+            "visit_count": 15
+         }, {
+            "date_added": "13365043757455971",
+            "date_last_used": "13369024464217218",
+            "guid": "fe4aea90-e27b-422e-930e-370c22d638b2",
+            "id": "9",
+            "name": "GitHub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13365478877478755",
+            "date_last_used": "0",
+            "guid": "8157e545-395a-45c1-bf1f-ae302ae96dc4",
+            "id": "10",
+            "name": "البريد الوارد ‎(759)‎ - abdallaheslam2001@gmail.com - Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/?hl=ar#inbox",
+            "visit_count": 0
+         }, {
+            "date_added": "13367299193516215",
+            "date_last_used": "0",
+            "guid": "a8e8d091-818f-4310-b496-5f8e8770c778",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Console Big Book API",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://bigbookapi.com/console/#Profile",
+            "visit_count": 0
+         }, {
+            "date_added": "13367985414284514",
+            "date_last_used": "0",
+            "guid": "658bb959-4a10-408b-aa50-31f93ab5e707",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Course: Deep Dive into Clean Architecture in Flutter[Arabic] | Udemy",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.udemy.com/course/deep-dive-into-clean-architecture-in-flutter-2022arabic/learn/lecture/37322218?start=0#overview",
+            "visit_count": 0
+         }, {
+            "date_added": "13371535642456102",
+            "date_last_used": "0",
+            "guid": "16251689-7553-4a34-b984-4b06f48a83b9",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MEGA",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mega.nz/folder/bUIgiRLJ#m0BD0mwBNuwo1kNNg4uqIg",
+            "visit_count": 1
+         }, {
+            "date_added": "13371951271115970",
+            "date_last_used": "0",
+            "guid": "4f58480c-f5f8-4481-8c0a-90f02108e7a8",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Firebase console",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://console.firebase.google.com/",
+            "visit_count": 1
+         } ],
+         "date_added": "13378705492596310",
+         "date_last_used": "0",
+         "date_modified": "13371951271115970",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13378705492596314",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13378705492596316",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCKEXQsiTAQAAKg4QABgBIAAoBTAAOABAABIAKhh2c2pYelZUVDlwc3VyMGovZ1hjTTFnPT1IA6AGDBKtAQgKEqgBChxESVBJa3JsaVVhcmpTVUZESEE2NWNFOTl2S2c9EiQ4MTU3ZTU0NS0zOTVhLTQ1YzEtYmYxZi1hZTMwMmFlOTZkYzQYACAAKAAwy/ihn4syOJX5oZ+LMkCV+aGfizJKHFdHMjJyQ1NGS1RPRkdOZjY5U3oxUE9SR0xrVT1aHyId9XVOMHZUeEpnRW9SeTZISTlWblNaRHlNZjg2ST1lmz2FtsI+AmAFEq0BCA0SqAEKHFg2RnJMUk1xZ2g1TjJINGRGYXRHTVo3NHltST0SJDE2MjUxNjg5LTc1NTMtNGEzNC1iOTg0LTRiMDZmNDhhODNiORgAIAAoADCcrq3noTI47a6t56EyQO2ureehMkocaGo2Vjcray9TOHBDK0lHMk1Gb1N4YjFZOHRVPVofIh3/OEpuZTZKL2hMZVhXNFVGUEpLSVVpakZyV1VZPWXvHQklwj4CYAUSrQEIDBKoAQocMDlPNEhOMXh1SlRNYWcxNDEyYUg5MVV2U0t3PRIkNjU4YmI5NTktNGExMC00MDhiLWFhNTAtMzFmOTNhYjVlNzA3GAAgACgAMOztvMqUMjid8LzKlDJAnfC8ypQyShx3RG1ZT1NLK1BNZFl4QUFNZ0l1QkNwSGtqUGs9Wh8iHf5TTW9DYkVkbGpENWZJWW9zMFBKK0hsblYrNVU9ZQSi1gfCPgJgBRKtAQgOEqgBChxOaFQ2OXZoc1B4dFhvOHhDQzlzckQyRGFXb0E9EiQ0ZjU4NDgwYy1mNWY4LTQ0ODEtOGMwYS05MGYwMjEwOGU3YTgYACAAKAAwn8nFraMyOIbLxa2jMkCGy8WtozJKHERnazI5WmR0UFd0MUlRK2U4Z2huSkhiWGNDND1aHyId/28zUTQxNWI5WXhIQVFjdUdHYmlOUWxrK0hhcz1l82oRycI+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDBkNzliODM1LWJmYWQtNTgxNS1iZTExLTY1ZDE0MmFmZWY0YhgAIAAoADCI9o3ZhzI4sfmN2YcyQLH5jdmHMkocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRjZDQzN2NhOC04MWFiLTVlNzgtYTJlOS01MTA2MzIxNWYyMjAYACAAKAAwh/aN2YcyOJL5jdmHMkCS+Y3ZhzJKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASrQEICBKoAQoca0o0dlVOdnBFS25qaUFIS1BsUE5jUDJzWUtnPRIkMzM0YjYzMGYtODIzMy00NDVlLTk4NzQtNmM0YmFhNTQyNDgxGAAgACgAMPyXw9ijMjjm56qwiDJA5ueqsIgyShxxNmFwbytEUnI2enUvVkNoSklpM3V3Rks1bzQ9Wh8iHdZsNzd5S3FSaUd4RmNobTZPTVBwK1N5K0s0YjQ9ZXwtVIDCPgJgBRKtAQgHEqgBChwrOXJ1dCtnZzBSd1NwZSs1YW9mQnlwTXMvZk09EiQyOTQxZDI5Zi1hOGFjLTQ4ZmItOTdiMS00ZjE0MmU3ZGE5MzQYACAAKAAwzPCEs6syOPOlj9uHMkDzpY/bhzJKHHlpOFdMTzh2TDFzTHFvakZrYWZJemRKL2JoND1aHyIdrDZxcFYxRXBsaTFyUUF3c0g3Mzk3YTBmbGhyaz1l/ZyMSsI+AmAFEq0BCAsSqAEKHDBKK0gyVEJUUjNBUXQvbTdyWlJQK0dKUE5LOD0SJGE4ZThkMDkxLTgxOGYtNDMxMC1iNDk2LTVmOGU4NzcwYzc3OBgAIAAoADD5maGDkjI4nJyhg5IyQJycoYOSMkocZFlEWnIyMlR4N09vVUJhQTNBS3FLTzR0ZHNFPVofIh39SHg3MVB1aGdBMTJwQjFvajJvODZ3VlovdFBBPWULcrtdwj4CYAUSrQEICRKoAQocZUV5dUxQWHYwRmlGSnZrR3Z6S2x3elVWR2VJPRIkZmU0YWVhOTAtZTI3Yi00MjJlLTkzMGUtMzcwYzIyZDYzOGIyGAAgACgAMOnWuLeZMjjMveTPiTJAzL3kz4kyShx0VGJQQUVPQ2pGSWt1VVk2L2d3dmV3d3R4bWM9Wh8iHetNOVpZcU5YYlBLME80aXRaRG5TVm9ERy8ra0E9ZcjzP7vCPgJgBRKsAQgGEqcBChxJUml2Tjlua1hUcGQ2bnY1a0FjSFk1dzBaU3c9EiQ4NzEyNjUxMS0xNTMyLTQ5YjEtYTY3Ny0wNTAyNWUzMWE3MzUYACAAKAAwkd+M24cyOKrfjNuHMkCq34zbhzJKHE5ESTdCbFRIVi8rSmlNSTRIUUpKblJlT3lsST1aHiIcWFpuZ2xMQkFCdFZBUmtRZkpFM3RheFRCa2JvPWVJo0zLwj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkYjQ4ZWU2ZjQtN2QyNS01ZmNhLWFiYjMtNTQzYzVkZWZlM2Y1GAAgACgAMI32jdmHMjju+Y3ZhzJA7vmN2YcyShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}

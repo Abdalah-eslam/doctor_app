@@ -218,6 +218,18 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "flutter_screenutil",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_screenutil-5.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_svg",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_svg-2.0.16",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///C:/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -258,6 +270,12 @@
       "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/html-0.15.5",
       "packageUri": "lib/",
       "languageVersion": "3.2"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
     },
     {
       "name": "http_parser",
@@ -360,6 +378,12 @@
       "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/path_parsing-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
     },
     {
       "name": "path_provider_linux",
@@ -554,6 +578,24 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "vector_graphics",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics-1.1.15",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "vector_graphics_codec",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics_codec-1.1.12",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "vector_graphics_compiler",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics_compiler-1.1.16",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
@@ -602,7 +644,7 @@
       "languageVersion": "3.6"
     }
   ],
-  "generated": "2024-12-14T23:42:13.974320Z",
+  "generated": "2024-12-15T03:29:05.716527Z",
   "generator": "pub",
   "generatorVersion": "3.6.0",
   "flutterRoot": "file:///C:/flutter",
