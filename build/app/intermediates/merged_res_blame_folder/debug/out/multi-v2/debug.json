@@ -1899,6 +1899,30 @@
             ]
         },
         {
+            "outputFile": "com.example.doc_app-merged_res-40:/values-v31_values-v31.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\study\\doc_app\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
+                    "from": {
+                        "startLines": "3,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,1065",
+                        "endLines": "10,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "716,1231"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,593",
+                        "endLines": "9,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "588,757"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "com.example.doc_app-merged_res-40:/values-ne_values-ne.arsc.flat",
             "map": [
                 {

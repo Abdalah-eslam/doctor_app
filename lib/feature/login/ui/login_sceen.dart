@@ -1,3 +1,4 @@
+import 'package:doc_app/feature/login/ui/widgets/totaly_login_view.dart';
 import 'package:flutter/material.dart';
 
 class LoginSceen extends StatelessWidget {
@@ -5,6 +6,13 @@ class LoginSceen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Scaffold(
+      body: SafeArea(
+        child: GestureDetector(
+            behavior: HitTestBehavior.translucent,
+            child: TotalyLoginView(),
+            onTap: () => FocusScope.of(context).unfocus()),
+      ),
+    );
   }
 }

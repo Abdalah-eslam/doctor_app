@@ -1,6 +1,9 @@
 R_DEF: Internal format may change without notice
 local
 drawable launch_background
+drawable splash_abdriod12_background
 mipmap ic_launcher
+mipmap splash_abdriod12
+mipmap splash_abdriod12_foreground
 style LaunchTheme
 style NormalTheme
