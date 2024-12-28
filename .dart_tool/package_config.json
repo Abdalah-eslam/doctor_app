@@ -27,7 +27,7 @@
     },
     {
       "name": "archive",
-      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/archive-4.0.1",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/archive-4.0.2",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -57,15 +57,15 @@
     },
     {
       "name": "build",
-      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/build-2.4.1",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/build-2.4.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.6"
     },
     {
       "name": "build_config",
-      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/build_config-1.1.1",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/build_config-1.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.6"
     },
     {
       "name": "built_collection",
@@ -75,7 +75,7 @@
     },
     {
       "name": "built_value",
-      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/built_value-8.9.2",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/built_value-8.9.3",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -285,9 +285,9 @@
     },
     {
       "name": "image",
-      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/image-4.4.0",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/image-4.5.2",
       "packageUri": "lib/",
-      "languageVersion": "2.15"
+      "languageVersion": "3.0"
     },
     {
       "name": "intl",
@@ -327,7 +327,7 @@
     },
     {
       "name": "lints",
-      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/lints-5.1.0",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/lints-5.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.6"
     },
@@ -453,9 +453,9 @@
     },
     {
       "name": "pubspec_parse",
-      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/pubspec_parse-1.3.0",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/pubspec_parse-1.4.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "retrofit",
@@ -471,9 +471,9 @@
     },
     {
       "name": "shared_preferences",
-      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences-2.3.3",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences-2.3.4",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.5"
     },
     {
       "name": "shared_preferences_android",
@@ -525,9 +525,9 @@
     },
     {
       "name": "source_helper",
-      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/source_helper-1.3.4",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/source_helper-1.3.5",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "source_span",
@@ -609,9 +609,9 @@
     },
     {
       "name": "watcher",
-      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/watcher-1.1.0",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/watcher-1.1.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.1"
     },
     {
       "name": "web",
@@ -633,9 +633,9 @@
     },
     {
       "name": "yaml",
-      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.2",
+      "rootUri": "file:///C:/Users/Abdallah/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.3",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "doc_app",
@@ -644,7 +644,7 @@
       "languageVersion": "3.6"
     }
   ],
-  "generated": "2024-12-16T00:26:14.925051Z",
+  "generated": "2024-12-28T16:12:03.891400Z",
   "generator": "pub",
   "generatorVersion": "3.6.0",
   "flutterRoot": "file:///C:/flutter",
