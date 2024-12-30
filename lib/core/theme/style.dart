@@ -13,6 +13,11 @@ class Stylemanger {
     fontWeight: FontWeight.w400,
     color: ColorsManger.maingray,
   );
+  static TextStyle font12black400wi = TextStyle(
+    fontSize: 12.sp,
+    fontWeight: FontWeight.w400,
+    color: ColorsManger.maingray,
+  );
   static TextStyle font12lightgray400wi = TextStyle(
     fontSize: 12.sp,
     fontWeight: FontWeight.w400,

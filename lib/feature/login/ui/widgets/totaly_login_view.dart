@@ -1,5 +1,7 @@
 import 'package:doc_app/core/theme/colors_manger.dart';
 import 'package:doc_app/core/theme/style.dart';
+import 'package:doc_app/feature/login/ui/widgets/Terms_Conditions.dart';
+import 'package:doc_app/feature/login/ui/widgets/allready_haveacc.dart';
 import 'package:doc_app/feature/login/ui/widgets/login_form.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -28,6 +30,11 @@ class TotalyLoginView extends StatelessWidget {
               style: Stylemanger.font14gray400wi.copyWith(height: 1.4),
             ),
             const LoginForm(),
+            AllreadyHaveacc(),
+            SizedBox(
+              height: 30,
+            ),
+            Termsandcond(),
           ],
         ),
       ),
