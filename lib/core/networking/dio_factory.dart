@@ -18,6 +18,7 @@ class DioFactory {
       addDioInterceptor();
       return dio!;
     } else {
+      addDioInterceptor();
       return dio!;
     }
   }

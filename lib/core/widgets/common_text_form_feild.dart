@@ -8,18 +8,22 @@ class CommonTextFormFeild extends StatelessWidget {
   final TextInputType? keyboardType;
   final bool? obscureText;
   final Widget? suffixIcon;
+  final Function(String?) validation;
   const CommonTextFormFeild(
       {super.key,
       required this.hintText,
       required this.controller,
       this.keyboardType,
       this.obscureText,
-      this.suffixIcon});
+      this.suffixIcon,
+      required this.validation});
 
   @override
   Widget build(BuildContext context) {
     return TextFormField(
-      validator: (value) {},
+      validator: (value) {
+        return validation(value);
+      },
       obscureText: obscureText ?? false,
       keyboardAppearance: Brightness.light,
       keyboardType: keyboardType,
@@ -44,6 +48,14 @@ class CommonTextFormFeild extends StatelessWidget {
         enabledBorder: OutlineInputBorder(
           borderRadius: BorderRadius.circular(16),
           borderSide: BorderSide(color: ColorsManger.maingray, width: 2),
+        ),
+        errorBorder: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(16),
+          borderSide: BorderSide(color: Colors.red, width: 2),
+        ),
+        focusedErrorBorder: OutlineInputBorder(
+          borderRadius: BorderRadius.circular(16),
+          borderSide: BorderSide(color: Colors.red, width: 2),
         ),
       ),
     );
