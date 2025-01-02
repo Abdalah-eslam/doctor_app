@@ -54,7 +54,7 @@ class LoginSceen extends StatelessWidget {
         child: SafeArea(
           child: GestureDetector(
               behavior: HitTestBehavior.translucent,
-              child: TotalyLoginView(),
+              child: SingleChildScrollView(child: TotalyLoginView()),
               onTap: () => FocusScope.of(context).unfocus()),
         ),
       ),
