@@ -30,10 +30,7 @@ class LoginForm extends StatelessWidget {
 
   void validateThenLogin(BuildContext context) {
     if (context.read<LoginCubit>().formKey.currentState!.validate()) {
-      context.read<LoginCubit>().login(RequstLoginModel(
-            email: context.read<LoginCubit>().email.text,
-            password: context.read<LoginCubit>().password.text,
-          ));
+      context.read<LoginCubit>().login();
     }
   }
 }

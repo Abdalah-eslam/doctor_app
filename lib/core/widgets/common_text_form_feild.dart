@@ -8,7 +8,8 @@ class CommonTextFormFeild extends StatelessWidget {
   final TextInputType? keyboardType;
   final bool? obscureText;
   final Widget? suffixIcon;
-  final Function(String?) validation;
+  final String? Function(String?) validation;
+
   const CommonTextFormFeild(
       {super.key,
       required this.hintText,

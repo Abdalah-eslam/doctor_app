@@ -29,25 +29,13 @@ class LoginSceen extends StatelessWidget {
               );
             },
             success: (data) {
-              context.pop();
-              context.pushnamed(Routes.home);
+              Navigator.pop(context);
+              Navigator.pushNamed(context, Routes.home);
             },
-            failure: (message) {
-              context.pop();
-              showDialog(
-                  context: context,
-                  builder: (context) => AlertDialog(
-                        content: Text(
-                          message,
-                          style: Stylemanger.font24black700wi
-                              .copyWith(color: Colors.red),
-                        ),
-                        actions: [
-                          TextButton(
-                              onPressed: () => context.pop(),
-                              child: const Text('Ok'))
-                        ],
-                      ));
+            failure: (data) {
+              Navigator.pop(context);
+              ScaffoldMessenger.of(context)
+                  .showSnackBar(SnackBar(content: Text(data)));
             },
           );
         },
