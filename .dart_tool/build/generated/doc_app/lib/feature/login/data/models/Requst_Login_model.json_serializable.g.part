@@ -1,0 +1,15 @@
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+RequstLoginModel _$RequstLoginModelFromJson(Map<String, dynamic> json) =>
+    RequstLoginModel(
+      email: json['email'] as String,
+      password: json['password'] as String,
+    );
+
+Map<String, dynamic> _$RequstLoginModelToJson(RequstLoginModel instance) =>
+    <String, dynamic>{
+      'email': instance.email,
+      'password': instance.password,
+    };
