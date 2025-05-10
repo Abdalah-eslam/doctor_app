@@ -1,15 +1,43 @@
 [
     {
-        "merged": "com.example.doc_app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.example.doc_app-main-35:/mipmap-hdpi/ic_launcher.png"
-    },
-    {
         "merged": "com.example.doc_app-merged_res-40:/drawable-v21_launch_background.xml.flat",
         "source": "com.example.doc_app-main-35:/drawable-v21/launch_background.xml"
     },
     {
         "merged": "com.example.doc_app-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "com.example.doc_app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.doc_app-merged_res-40:/drawable_splash_abdriod12_background.xml.flat",
+        "source": "com.example.doc_app-main-35:/drawable/splash_abdriod12_background.xml"
+    },
+    {
+        "merged": "com.example.doc_app-merged_res-40:/mipmap-anydpi-v26_splash_abdriod12.xml.flat",
+        "source": "com.example.doc_app-main-35:/mipmap-anydpi-v26/splash_abdriod12.xml"
+    },
+    {
+        "merged": "com.example.doc_app-merged_res-40:/mipmap-hdpi_splash_abdriod12_foreground.png.flat",
+        "source": "com.example.doc_app-main-35:/mipmap-hdpi/splash_abdriod12_foreground.png"
+    },
+    {
+        "merged": "com.example.doc_app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.doc_app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.doc_app-merged_res-40:/mipmap-mdpi_splash_abdriod12_foreground.png.flat",
+        "source": "com.example.doc_app-main-35:/mipmap-mdpi/splash_abdriod12_foreground.png"
+    },
+    {
+        "merged": "com.example.doc_app-merged_res-40:/mipmap-xxhdpi_splash_abdriod12_foreground.png.flat",
+        "source": "com.example.doc_app-main-35:/mipmap-xxhdpi/splash_abdriod12_foreground.png"
+    },
+    {
+        "merged": "com.example.doc_app-merged_res-40:/mipmap-xhdpi_splash_abdriod12_foreground.png.flat",
+        "source": "com.example.doc_app-main-35:/mipmap-xhdpi/splash_abdriod12_foreground.png"
+    },
+    {
+        "merged": "com.example.doc_app-merged_res-40:/mipmap-xxxhdpi_splash_abdriod12_foreground.png.flat",
+        "source": "com.example.doc_app-main-35:/mipmap-xxxhdpi/splash_abdriod12_foreground.png"
     },
     {
         "merged": "com.example.doc_app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",

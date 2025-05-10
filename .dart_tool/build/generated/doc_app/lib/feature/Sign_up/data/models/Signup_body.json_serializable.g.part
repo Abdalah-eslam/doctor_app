@@ -1,0 +1,22 @@
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+SignupBody _$SignupBodyFromJson(Map<String, dynamic> json) => SignupBody(
+      name: json['name'] as String,
+      email: json['email'] as String,
+      password: json['password'] as String,
+      phone: json['phone'] as String,
+      passwordConfirmation: json['passwordConfirmation'] as String,
+      gender: (json['gender'] as num).toInt(),
+    );
+
+Map<String, dynamic> _$SignupBodyToJson(SignupBody instance) =>
+    <String, dynamic>{
+      'name': instance.name,
+      'email': instance.email,
+      'password': instance.password,
+      'phone': instance.phone,
+      'passwordConfirmation': instance.passwordConfirmation,
+      'gender': instance.gender,
+    };
